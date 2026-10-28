@@ -1,7 +1,6 @@
-### Supplementary Material -- Submission #2828
-#### “A Second Set of Eyes”: The Process and Challenges of Software Documentation Review 
+### Supplementary Material: “A Second Set of Eyes”: The Process and Challenges of Software Documentation Review 
 
-This zip file contains 6 files.
+This repository contains 6 files.
 
 1. Interview Protocol (1_interview_protocol.pdf)
 2. Participant Demographic Information (2_participant_demographic_information.pdf)
